@@ -1,12 +1,30 @@
 # Projects
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+#Style Tag
+- project: Styletag
+  role: Frontend Developer
+  duration: 2016 &mdash; present
+  description: Setting out as India's first online curated fashion and lifestyle destination, STYLETAG.com is a shopping website that hosts flash sales with curated styles .
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+#Research Tag
+- project: Research Tag
+  role: Freelance Developer
+  duration: 2016 &mdash; 2017
+  description: Research Tag is an admin panel where all the research documents of an organization are kept at a common place.
+
+# Elevate
+- project: Elevate
+  role: Software Developer
+  duration: 2015 &mdash; 2016
+  description: Elevate is reinventing the non-prime lending industry by giving consumers access to responsible and transparent credit options.
+
+#Classblox
+- project: Classblox
+  role: Software Developer
+  duration: 2015 &mdash; 2016
+  description: Classblox is where a child can take a class with a series of sessions with their experienced online live instructors. There is a structured topics plan to be covered and the child takes periodic assessments so they can track progress.
+
+# Webvisitor Voice Chat
+- project: Webvisitor Voice Chat
+  role: Freelance Developer
+  duration: 2015 &mdash; 2016
+  description: A platform that provides voice and video chat on the browser.
